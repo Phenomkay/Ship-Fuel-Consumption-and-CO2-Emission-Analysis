@@ -285,6 +285,12 @@ Top 5 CO₂ Emitting Routes:
 ### Monitor and Manage Outliers:
 - Investigate routes with significant efficiency gaps to identify underlying causes and address them.
 
-## Conclusion
-This analysis has provided valuable insights into the fuel consumption and CO₂ emissions of various ships and routes. By addressing the highlighted issues and implementing the recommendations, stakeholders can achieve improved fuel efficiency, reduced emissions, and overall better performance. The problem of high CO₂ emissions and suboptimal fuel efficiency has been addressed through detailed analysis and actionable recommendations.
+Here's the updated conclusion with your Power BI dashboard link included:  
 
+---
+
+## Conclusion  
+
+This analysis has provided valuable insights into the fuel consumption and CO₂ emissions of various ships and routes. By addressing the highlighted issues and implementing the recommendations, stakeholders can achieve improved fuel efficiency, reduced emissions, and overall better performance. The problem of high CO₂ emissions and suboptimal fuel efficiency has been addressed through detailed analysis and actionable recommendations.  
+
+For an interactive visualization of the analysis, explore the **Power BI Dashboard**: [View Dashboard](https://app.powerbi.com/links/chsxST3aAM?ctid=4ae26b74-8d47-481a-a074-fcd2bc5db7f9&pbi_source=linkShare).  
