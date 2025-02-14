@@ -65,7 +65,7 @@ To summarize overall performance, we computed key performance indicators (KPIs):
 ### CO₂ Emissions by Route
 We created a bar chart to visualize the total CO₂ emissions by route. This helped in identifying high-emission routes.
 
-![CO₂ Emissions by Route](https://github.com/Phenomkay/Ship-Fuel-Consumption-and-CO2-Emission-Analysis/blob/4dd324786dba4ffc208e1490f0826e4b9759ea7b/total%20CO2%20emission%20by%20route.png)
+![CO₂ Emissions by Route](https://github.com/Phenomkay/Ship-Fuel-Consumption-and-CO2-Emission-Analysis/blob/main/total_CO2_emission_by_route.png)
 
 #### **Chart Description**:
 - **Title**: Total CO₂ Emissions by Route
