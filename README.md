@@ -12,19 +12,6 @@ This project analyzes ship fuel consumption and CO₂ emissions based on collect
 ## Problem Statement
 Maritime transportation significantly contributes to global CO₂ emissions. Inefficient fuel consumption leads to higher operational costs and increased environmental impact. Understanding the fuel efficiency of different ships under various conditions can help optimize fuel usage, reduce emissions, and enhance overall operational effectiveness.
 
-## Table of Contents
-1. [Data Overview](#data-overview)
-2. [Data Dictionary](#data-dictionary)
-3. [Key Insights](#key-insights)
-   - Total CO₂ Emissions by Route
-   - Monthly Fuel Consumption Trends
-   - Fuel Type Analysis
-   - Ship Type Analysis
-   - Weather Condition Analysis
-   - Efficiency Analysis
-4. [Recommendations](#recommendations)
-5. [Conclusion](#conclusion)
-
 ## Data Overview
 The dataset includes information on ship routes, fuel types, fuel consumption, CO₂ emissions, weather conditions, and engine efficiency. Key metrics were calculated and visualized to derive meaningful insights.
 
@@ -90,19 +77,19 @@ We created a bar chart to visualize the total CO₂ emissions by route. This hel
 ### Fuel Consumption by Month
 We plotted total fuel consumption per month to observe trends.
 
-![Alt Text](images/filename.png)
+![Fuel Consumption by Month](https://github.com/Phenomkay/Ship-Fuel-Consumption-and-CO2-Emission-Analysis/blob/df75d56c4059a441dbea407fe0c27b877325245f/total%20fuel%20consumption%20by%20month.png)
 
 #### **Chart Description**:
 - **Title**: Total Fuel Consumption by Month
 - **X-axis**: Month (January to December)
 - **Y-axis**: Total Fuel Consumption (475,000 to 675,000 units)
 - **Color Scheme**: Blue line with markers
-- **Insight**: Peaks in March and July, significant drop in August.
+- **Insight**: Peaks in March and makes a significant drop in August.
 
 ### Fuel Consumption by Fuel Type
 We visualized total fuel consumption for Diesel and HFO.
 
-![Alt Text](images/filename.png)
+![Fuel Consumption by Fuel Type](https://github.com/Phenomkay/Ship-Fuel-Consumption-and-CO2-Emission-Analysis/blob/df75d56c4059a441dbea407fe0c27b877325245f/fuel%20consumption%20by%20fuel%20type.png)
 
 #### **Chart Description**:
 - **Title**: Total Fuel Consumption by Fuel Type
@@ -114,7 +101,7 @@ We visualized total fuel consumption for Diesel and HFO.
 ### Fuel Efficiency by Fuel Type
 A bar chart compared Diesel and HFO efficiency.
 
-![Alt Text](images/filename.png)
+![Fuel Efficiency by Fuel Type](https://github.com/Phenomkay/Ship-Fuel-Consumption-and-CO2-Emission-Analysis/blob/df75d56c4059a441dbea407fe0c27b877325245f/fuel%20efficiency%20by%20fuel%20type.png)
 
 #### **Chart Description**:
 - **Title**: Average Fuel Efficiency by Fuel Type
@@ -126,7 +113,7 @@ A bar chart compared Diesel and HFO efficiency.
 ### CO₂ Emissions by Ship Type
 We visualized total CO₂ emissions by ship type.
 
-![Alt Text](images/filename.png)
+![CO₂ Emissions by Ship Type](https://github.com/Phenomkay/Ship-Fuel-Consumption-and-CO2-Emission-Analysis/blob/df75d56c4059a441dbea407fe0c27b877325245f/CO2%20emission%20by%20ship%20type.png)
 
 #### **Chart Description**:
 - **Title**: Total CO₂ Emissions by Ship Type
@@ -138,7 +125,7 @@ We visualized total CO₂ emissions by ship type.
 ### Fuel Efficiency by Weather Condition
 We analyzed how different weather conditions impact fuel efficiency.
 
-![Alt Text](images/filename.png)
+![Fuel Efficiency by Weather Condition](https://github.com/Phenomkay/Ship-Fuel-Consumption-and-CO2-Emission-Analysis/blob/df75d56c4059a441dbea407fe0c27b877325245f/fuel%20efficiency%20by%20weather%20type.png)
 
 #### **Chart Description**:
 - **Title**: Fuel Efficiency by Weather Condition
@@ -148,7 +135,7 @@ We analyzed how different weather conditions impact fuel efficiency.
 - **Insight**: Stormy conditions showed slightly higher fuel efficiency compared to Calm and Moderate conditions.
 
 
-Here’s the analysis of the **Fuel Type, Ship Type, and Weather Condition Analysis**, summarized in a structured table format:  
+Here’s the analysis of the **Fuel Type and Ship Type Analysis**, summarized in a structured table format:  
 
 ---
 
